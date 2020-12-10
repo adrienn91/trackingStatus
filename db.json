@@ -1,6 +1,6 @@
 {
 	"list": [
-		{"orderNumber": "12345678", "status": "delivered"},
-		{"orderNumber": "11111111", "status": "in progress"}
+		{"orderNumber": "12345678", "orderStatus": "delivered"},
+		{"orderNumber": "11111111", "orderStatus": "in progress"}
 		] 
 }
